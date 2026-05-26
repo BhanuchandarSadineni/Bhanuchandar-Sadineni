@@ -6,7 +6,7 @@ Profile repo of Bhanuchandar Sadineni
 
 I am a **Staff Software Engineer** and Full-Stack Technologist based in the Greater Chicago Area. I specialize in designing, building, and delivering high-scale, cloud-native enterprise systems, with a deep specialization in distributed backend architectures, microservices, and financial technology platforms. 
 
-With a results-oriented mindset and a passion for engineering modernization, I leverage technologies like Java, Kubernetes, and AWS to build resilient systems that power modern enterprise workflows and secure financial services.
+With a results-oriented mindset and a passion for engineering modernization, I leverage technologies like Java, Kubernetes, and AWS to build resilient systems that power modern enterprise workflows.
 
 ---
 
@@ -29,4 +29,4 @@ With a results-oriented mindset and a passion for engineering modernization, I l
 
 *   💼 **LinkedIn:** [linkedin.com/in/bhanuchandar-sadineni](https://www.linkedin.com/in/bhanuchandar-sadineni)
 *   🌐 **Professional Domain:** [Coming Soon / Link Your Site Here]
-*   
+
